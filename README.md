@@ -28,11 +28,11 @@ LitCove adalah platform jual beli buku online yang memungkinkan pengguna untuk m
 
 ## Fitur
 
--Fitur edit profil bagi pengguna: Memungkinkan pengguna untuk memperbarui informasi pribadi mereka seperti nama, email, dan kata sandi.
--Admin: Memiliki akses khusus untuk mengelola pengguna, buku, dan iklan di platform
--Fitur tambah buku: Memungkinkan admin untuk menambahkan buku baru ke dalam database dengan informasi lengkap.
--Fitur update iklan: Memungkinkan admin untuk memperbarui informasi iklan yang ditampilkan di platform.
--Fitur hapus user: Memungkinkan admin untuk menghapus akun pengguna dari platform.
+- Fitur edit profil bagi pengguna: Memungkinkan pengguna untuk memperbarui informasi pribadi mereka seperti nama, email, dan kata sandi.
+- Admin: Memiliki akses khusus untuk mengelola pengguna, buku, dan iklan di platform
+- Fitur tambah buku: Memungkinkan admin untuk menambahkan buku baru ke dalam database dengan informasi lengkap.
+- Fitur update iklan: Memungkinkan admin untuk memperbarui informasi iklan yang ditampilkan di platform.
+- Fitur hapus user: Memungkinkan admin untuk menghapus akun pengguna dari platform.
 
 ## Teknologi yang Digunakan
 
