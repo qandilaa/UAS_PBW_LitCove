@@ -32,7 +32,6 @@ LitCove adalah platform jual beli buku online yang memungkinkan pengguna untuk m
 - Detail Produk: Halaman detail yang menampilkan informasi lengkap tentang buku.
 - Keranjang Belanja: Fitur untuk menambahkan buku ke keranjang belanja dan melanjutkan ke pembayaran.
 - Otentikasi Pengguna: Sistem login dan registrasi untuk pengguna.
-- Metode Pembayaran: Integrasi dengan gateway pembayaran untuk transaksi yang aman.
 
 ## Teknologi yang Digunakan
 
